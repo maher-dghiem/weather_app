@@ -1,2 +1,4 @@
 *.html linguist-generated=true
 *.css linguist-generated=true
+android/build/reports/problems/problems-report.html linguist-generated=true
+build/reports/problems/problems-report.html linguist-generated=true
